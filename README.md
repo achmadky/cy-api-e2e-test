@@ -6,11 +6,11 @@
 ### Get Started
 * after cloning this repository
 
-'''bash
+```bash
 npm install
-'''
+```
 
 ### How to run
-'''bash
+```bash
 npx cypress open
-'''
+```
